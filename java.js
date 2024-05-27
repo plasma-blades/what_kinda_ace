@@ -20,5 +20,5 @@ function AllosexualFunction()
 
 function OrchidsexualFunction()
 {
-  window.location.href = "Orchidsexual.html
+  window.location.href = "Orchidsexual.html"
 }
