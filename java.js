@@ -37,3 +37,9 @@ function CupiosexualFunction()
 {
   window.location.href = "Cupiosexual.html"
 }
+
+function ApothisexualFunction()
+{
+  window.location.href = "Apothisexual.html"
+}
+
