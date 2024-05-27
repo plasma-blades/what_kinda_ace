@@ -21,6 +21,14 @@ h2 {
   font-size: 28px;
 }
 
+/* Affects the answer */
+h3 {
+  color: cyan;
+  text-align: center;
+  font-size: 28px;
+  
+}
+
 /* Affects the paragraph text */
 p {
   text-align: justify;
