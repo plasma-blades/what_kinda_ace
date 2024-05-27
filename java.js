@@ -43,3 +43,8 @@ function ApothisexualFunction()
   window.location.href = "Apothisexual.html"
 }
 
+function IculasexualFunction()
+{
+   window.location.href = "Iculasexual.html"
+}
+
