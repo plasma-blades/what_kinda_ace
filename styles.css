@@ -11,7 +11,7 @@ h1, h2 {
 
 /* Affects the title */
 h1 {
-  color: purple;
+  color: fuchsia;
 }
 
 /* Affects the headings */
@@ -38,7 +38,7 @@ ul {
 
 /* Background colour */
 body {
-  background-color: darkslategray;
+  background-color: lightgray;
 }
 
 /* Button */
