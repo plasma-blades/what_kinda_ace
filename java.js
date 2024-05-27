@@ -18,6 +18,11 @@ function Q3_1Function()
   window.location.href = "Question3.1.html"
 }
 
+function Q3_2Function()
+{
+  window.location.href = "Question3.2.html"
+}
+
 function AllosexualFunction()
 {
   window.location.href = "Allosexual.html"
@@ -26,4 +31,9 @@ function AllosexualFunction()
 function OrchidsexualFunction()
 {
   window.location.href = "Orchidsexual.html"
+}
+
+function CupiosexualFunction()
+{
+  window.location.href = "Cupiosexual.html"
 }
