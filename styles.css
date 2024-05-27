@@ -1,0 +1,66 @@
+/* Affects everything! */
+* {
+  font-family: Arial;
+}
+
+/* Affects all the headings */
+h1, h2 {
+  text-align: justify;
+  font-weight: 500;
+}
+
+/* Affects the title */
+h1 {
+  color: purple;
+}
+
+/* Affects the headings */
+h2 {
+  color: palegreen;
+  text-align: center;
+}
+
+/* Affects the paragraph text */
+p {
+  text-align: justify;
+  font-weight: 400;
+  color: white;
+  font-stretch: 200%;
+  margin: 30px;
+}
+
+/* Affects the lists */
+ul {
+    text-align: justify;
+    font-weight: 400;
+    color: white;
+}
+
+/* Background colour */
+body {
+  background-color: darkslategray;
+}
+
+/* Button */
+.button {
+  
+  /* Center placement */
+  width: 80%;
+  display: block;
+  margin: auto;
+  
+  font-size: 28px;
+
+  /* Visuals */
+  background-color: black;
+  color: white;
+
+  /* Gap between buttons */
+  padding: 30px;
+
+  /* Button border */
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  margin-bottom: 20px;
+}
