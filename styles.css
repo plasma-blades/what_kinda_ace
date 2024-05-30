@@ -11,12 +11,12 @@ h1, h2 {
 
 /* Affects the title */
 h1 {
-  color: fuchsia;
+  color: deeppink;
 }
 
 /* Affects the headings */
 h2 {
-  color: palegreen;
+  color: lawngreen;
   text-align: center;
   font-size: 28px;
 }
