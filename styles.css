@@ -98,3 +98,27 @@ body {
   border-color: black;
   margin-bottom: 20px;
 }
+
+/* Button for longer answers */
+.button2 {
+  
+  /* Center placement */
+  width: 80%;
+  display: block;
+  margin: auto;
+  
+  font-size: 26px;
+
+  /* Visuals */
+  background-color: purple;
+  color: white;
+
+  /* Gap between buttons */
+  padding: 30px;
+
+  /* Button border */
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  margin-bottom: 20px;
+}
