@@ -20,12 +20,12 @@ function Q2_1Function()
 
 function Q2_1_1Function()
 {
-  window.location.href = "Question2.1.1html"
+  window.location.href = "Question2.1.1.html"
 }
 
 function Q2_1_2Function()
 {
-  window.location.href = "Question2.1.2html"
+  window.location.href = "Question2.1.2.html"
 }
 
 function Q3_1Function()
