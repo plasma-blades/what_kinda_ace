@@ -13,6 +13,21 @@ function Q1_1Function()
   window.location.href = "Question1.1.html"
 }
 
+function Q2_1Function()
+{
+  window.location.href = "Question2.1.html"
+}
+
+function Q2_1_1Function()
+{
+  window.location.href = "Question2.1.1html"
+}
+
+function Q2_1_2Function()
+{
+  window.location.href = "Question2.1.2html"
+}
+
 function Q3_1Function()
 {
   window.location.href = "Question3.1.html"
