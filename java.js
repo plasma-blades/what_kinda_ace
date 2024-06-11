@@ -96,3 +96,57 @@ function IculasexualFunction()
    window.location.href = "Iculasexual.html"
 }
 
+function DemisexualFunction()
+{
+  window.location.href = "Demisexual.html"
+}
+
+function FraysexualFunction()
+{
+  window.location.href = "Fraysexual.html"
+}
+
+function LithosexualFunction()
+{
+  window.location.href = "Lithosexual.html"
+}
+
+function ReciprosexualFunction()
+{
+  window.location.href = "Reciprosexual.html"
+}
+
+function ProculsexualFunction()
+{
+  window.location.href = "Proculsexual.html"
+}
+
+function AutosexualFunction()
+{
+  window.location.href = "Autosexual.html"
+}
+
+function AegosexualFunction()
+{
+  window.location.href = "Aegosexual.html"
+}
+
+function MollsexualFunction()
+{
+  window.location.href = "Mollsexual.html"
+}
+
+function AcefluxFunction()
+{
+  window.location.href = "Aceflux.html"
+}
+
+function AcejumpFunction()
+{
+  window.location.href = "Acejump.html"
+}
+
+function AcespikeFunction()
+{
+  window.location.href = "Acespike.html"
+}
