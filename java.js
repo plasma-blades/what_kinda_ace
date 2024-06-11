@@ -52,6 +52,11 @@ function Q2_1_6Function()
   window.location.href = "Question2.1.6.html"
 }
 
+function Q2_2Function()
+{
+  window.location.href = "Question2.2.html"
+}
+
 /* Question 3 starts here */
 
 function Q3_1Function()
